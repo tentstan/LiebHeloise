@@ -1,0 +1,15 @@
+{
+  "name": "linproxy",
+  "version": "1.0.0",
+  "description": "lin proxy",
+  "main": "linproxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socksv5": "0.0.6",
+    "ws": "^6.2.1"
+  }
+}
